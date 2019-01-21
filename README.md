@@ -9,7 +9,7 @@
 
 #### Lecturer
 
-- Dr Alexey Bessudnov (a.bessudnov [at] exeter.ac.uk)
+- Dr Alexey Bessudnov (a.bessudnov [at] exeter.ac.uk) Hah
 - Peer-to-peer teaching assistant: Max Shilling (mas254 [at] exeter.ac.uk)
 
 #### Office hours
